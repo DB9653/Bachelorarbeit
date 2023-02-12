@@ -1,6 +1,6 @@
 # Bachelorarbeit
 
-In diesem Repo befindet sich der Code, der im Zuge der Bachelorarbeit im WiSe22/23 entstand. Auch die Datensätze sind hier zu finden.
+In diesem Repo befindet sich der Code, der im Zuge der Bachelorarbeit im WiSe22/23 entstand. 
 
 Die verwendeten Klassifikationsverfahren sind öffentlich zugänglich über folgende Links:
   - HASOCOne: https://github.com/suman101112/hasoc-fire-2020
